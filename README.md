@@ -1,1 +1,1 @@
-# tutorials
+- [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples)
