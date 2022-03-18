@@ -1,1 +1,2 @@
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples)
+- [developer.chrome.com reference](https://developer.chrome.com/docs/extensions/reference/)
