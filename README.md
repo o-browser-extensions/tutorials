@@ -1,3 +1,4 @@
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples)
 - [developer.chrome.com reference](https://developer.chrome.com/docs/extensions/reference/)
 - [v2 manifest](https://developer.chrome.com/docs/extensions/mv2/manifest/)
+- [v3 manifest](https://github.com/GoogleChrome/chrome-extensions-samples/blob/main/tutorials/getting-started/manifest.json)
