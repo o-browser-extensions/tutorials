@@ -4,3 +4,4 @@
 - [v3 manifest](https://github.com/GoogleChrome/chrome-extensions-samples/blob/main/tutorials/getting-started/manifest.json)
 - [webpack-setup](https://webpack.js.org/guides/getting-started/#basic-setup)
 - [webpack-conceps](https://webpack.js.org/concepts/)
+- [webpack-hook-plugin](https://github.com/tienne/webpack-hook-plugin)
