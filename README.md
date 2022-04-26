@@ -5,3 +5,4 @@
 - [webpack-setup](https://webpack.js.org/guides/getting-started/#basic-setup)
 - [webpack-conceps](https://webpack.js.org/concepts/)
 - [webpack-hook-plugin](https://github.com/tienne/webpack-hook-plugin)
+- [chrome api json](https://chromium.googlesource.com/chromium/chromium/+/1fc707b3d4426007dac9d63dbe79eaafb4d41f4a/chrome/common/extensions/api)
