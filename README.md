@@ -7,3 +7,4 @@
 - [webpack-hook-plugin](https://github.com/tienne/webpack-hook-plugin)
 - [chrome api json](https://chromium.googlesource.com/chromium/chromium/+/1fc707b3d4426007dac9d63dbe79eaafb4d41f4a/chrome/common/extensions/api)
 - [chrome.runtime.onMessage response with async await](https://stackoverflow.com/questions/44056271/chrome-runtime-onmessage-response-with-async-await)
+- [chrome+extension+sendmessage+await+until+getdata](https://www.codegrepper.com/code-examples/whatever/chrome+extension+sendmessage+await+until+getdata)
